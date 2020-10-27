@@ -1,1 +1,1 @@
-document
+console.log(document)
